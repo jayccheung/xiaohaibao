@@ -3,15 +3,15 @@ compatibility_date = "2026-01-01"
 pages_build_output_dir = "dist"
 
 # D1 Database
-[[d1_databases]]
-binding = "DB"
-database_name = "xiaohaibao"
-database_id = "placeholder-replace-after-create"
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "xiaohaibao"
+# database_id = "placeholder-replace-after-create"
 
 # R2 Bucket
-[[r2_buckets]]
-binding = "MEDIA"
-bucket_name = "xiaohaibao-assets"
+# [[r2_buckets]]
+# binding = "MEDIA"
+# bucket_name = "xiaohaibao-assets"
 
 # Environment variables (set via dashboard, not committed)
 # PLATFORM_DEEPSEEK_KEY
