@@ -25,7 +25,7 @@ export default function Layout() {
   }
 
   return (
-    <div className="min-h-screen bg-surface flex flex-col max-w-lg mx-auto relative">
+    <div className="min-h-screen bg-surface flex flex-col max-w-lg md:max-w-2xl lg:max-w-4xl mx-auto relative">
       {/* Header */}
       <header className="sticky top-0 z-10 bg-surface/80 backdrop-blur-xl px-5 py-4 border-b border-brand-100">
         <div className="flex items-center justify-between">
