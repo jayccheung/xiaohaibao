@@ -10,7 +10,7 @@ database_id = "placeholder-replace-after-create"
 
 # R2 Bucket
 [[r2_buckets]]
-binding = "ASSETS"
+binding = "MEDIA"
 bucket_name = "xiaohaibao-assets"
 
 # Environment variables (set via dashboard, not committed)
